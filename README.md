@@ -17,6 +17,7 @@
 
 00x2 使用XORTool 进行配置加密
 修改frp配置参数，获取加密配置
+
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/38f6570d-719e-46e3-9583-42d6b3329512">
 
 
