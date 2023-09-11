@@ -12,12 +12,14 @@
 0x1 配置
 
 00x1 使用XORTool进行frp加密
+
 选择需要加密的frp文件，默认文件加密密钥为duxaz
 
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/2e3be9ed-5491-44dc-8429-3075b1752770">
 
 
 00x2 使用XORTool 进行配置加密
+
 修改frp配置参数，获取加密配置
 
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/38f6570d-719e-46e3-9583-42d6b3329512">
@@ -26,8 +28,10 @@
 00x3 使用方式
 参数配置，不要修改顺序
 本地加载
+
 使用默认文件加密key
 DInvokeSU.exe --file C:\users\public\main.bin 加密配置 
+
 
 修改加密key上线
 DInvokeSU.exe --file C:\users\public\main.bin 加密配置 --key 加密密钥
