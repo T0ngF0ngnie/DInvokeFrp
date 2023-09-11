@@ -72,6 +72,10 @@ execute-assembly DInvokeSU.exe --file C:\Users\Public\main.bin 加密配置 --ke
 
 <img width="415" alt="image" src="https://github.com/T0ngF0ngnie/DInvokeFrp/assets/68188237/664b19d6-4faf-4f10-ba91-0883b680247b">
 
+
+结束：
+客户端和服务端均已经魔改，修改部分静态以及流量特征。
+
 参考链接
 
 https://github.com/TheWover/DInvoke
